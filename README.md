@@ -1,6 +1,9 @@
 Touchfolio Free Responsive WordPress Theme
 ==========================================
 
+### Installations Notes
+
+At the moment it requires [jQuery Migrate Helper](https://wordpress.org/plugins/enable-jquery-migrate-helper/) plugin
 ### <http://dimsemenov.com/themes/touchfolio/>
 
 *Touchfolio* is simple theme created with focus on content and providing great user experience on majority of desktop and mobile devices.
